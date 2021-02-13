@@ -92,7 +92,7 @@
 				<configuration>
 					<url>jdbc:mysql://localhost:3306/flyway_dev</url>
 					<user>root</user>
-					<password>xiangli.chen</password>
+					<password>yourPassWord</password>
 				</configuration>
 			</plugin>
 		</plugins>
