@@ -1,0 +1,1 @@
+DELETE IGNORE FROM `${flyway-table}` WHERE success = 0;
