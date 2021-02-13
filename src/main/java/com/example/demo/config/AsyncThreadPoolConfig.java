@@ -7,7 +7,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import java.util.concurrent.ThreadPoolExecutor;
 
 /**
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/1/15 17:25
  */
 @Configuration

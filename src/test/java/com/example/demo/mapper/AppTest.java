@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 /**
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/2/4 15:06
  */
 @RunWith(SpringRunner.class)

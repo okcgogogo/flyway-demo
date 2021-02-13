@@ -3,7 +3,7 @@ package com.example.demo.design.handler;
 import org.springframework.beans.factory.InitializingBean;
 
 /**
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/2/4 14:51
  */
 public abstract class AbstractPayHandler implements InitializingBean {

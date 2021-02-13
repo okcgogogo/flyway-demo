@@ -3,7 +3,7 @@ package com.example.demo.domain.enums;
 import com.baomidou.mybatisplus.core.enums.IEnum;
 
 /**
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2020/12/6 15:06
  */
 public enum ProjectStateEnum implements IEnum<Integer> {

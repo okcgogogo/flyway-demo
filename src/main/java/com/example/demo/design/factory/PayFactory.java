@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 工厂+策略+模板方法 设计模式示例
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/2/4 14:54
  */
 public class PayFactory {

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * springboot项目启动之后执行run方法
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/2/4 18:19
  */
 @Slf4j

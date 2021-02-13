@@ -8,7 +8,7 @@ import javax.annotation.PostConstruct;
 
 /**
  * InitializingBean也是在依赖注入之后执行
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2021/2/4 18:18
  */
 @Slf4j

@@ -6,7 +6,7 @@ import com.example.demo.domain.Project;
 import java.util.List;
 
 /**
- * @author xiangli.chen
+ * @author okcgogogo
  * @date 2020/12/6 15:26
  */
 public interface ProjectService extends IService<Project> {
